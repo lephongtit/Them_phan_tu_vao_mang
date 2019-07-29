@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01270864-656d-49b1-ab23-d52cb1338e57" name="Default Changelist" comment="" />
+    <list default="true" id="01270864-656d-49b1-ab23-d52cb1338e57" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Them_phan_tu_vao_mang/Them_phan_tu_vao_mang.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Them_phan_tu_vao_mang/Them_phan_tu_vao_mang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Them_phan_tu_vao_mang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Them_phan_tu_vao_mang.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Them_phan_tu_vao_mang.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+            <state relative-caret-position="312">
+              <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -32,6 +37,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -40,10 +48,11 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="907" />
-    <option name="width" value="932" />
-    <option name="height" value="1088" />
+    <option name="x" value="906" />
+    <option name="width" value="933" />
+    <option name="height" value="1089" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -70,6 +79,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -118,18 +128,18 @@
       <option name="presentableId" value="Default" />
       <updated>1564290724930</updated>
       <workItem from="1564290731847" duration="1203000" />
-      <workItem from="1564321548847" duration="2226000" />
+      <workItem from="1564321548847" duration="6430000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3429000" />
+    <option name="totallyTimeSpent" value="7633000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="725" y="0" width="746" height="871" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2521866" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.06851312" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -147,7 +157,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3292683" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -166,8 +176,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Them_phan_tu_vao_mang.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        <state relative-caret-position="312">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
         </state>
       </provider>
     </entry>
